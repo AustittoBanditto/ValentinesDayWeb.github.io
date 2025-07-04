@@ -16,15 +16,9 @@ It's simple, cute, and easy to customize. The page shows a heartfelt message, a 
 ## How to Use
 
 1. **Open the Project**  
-   Go into the code for this project, open it in your own directory with a coding application such as VSCode.
+   just visit this link to view the project: https://austittobanditto.github.io/ValentinesDayWeb.github.io/
 
-2. **Run the Code**  
-   In VSCode, hit 'run' in the top, and run without debugging.
-
-3. **View the Project**  
-   Now you should be in! you can now view the Valintines Day project, and play with the features!
-
-4. **Customize (Optional)**  
+2. **Customize (Optional)**  
    - Change the message in the `<h1>` tag.
    - Swap out the image (replace the base64 string in the `src`).
    - Edit the button texts or add your own fun logic.
